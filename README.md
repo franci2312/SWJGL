@@ -8,9 +8,9 @@ Code for exploring gene expression networks across cortical layers using spatial
 ¹Department of Statistical Sciences, University of Padova  
 ²Department of Industrial Engineering, University of Naples Federico II
 
-### Overview
+### Results Overview
 
-![Project Overview](images/layers.pdf)
+![Network analysis results for each cortical layer](images/layers.pdf)
 
 Analyzes gene expression networks across six grey matter layers and white matter of the human brain using two spatially-aware methods:
 - **SWJGL**: Spatially Weighted Joint Graphical Lasso
